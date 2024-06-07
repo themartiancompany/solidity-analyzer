@@ -1,12 +1,6 @@
 {
   "name": "@nomicfoundation/solidity-analyzer-linux-x64-musl",
   "version": "0.1.1",
-  "os": [
-    "linux"
-  ],
-  "cpu": [
-    "x64"
-  ],
   "main": "solidity-analyzer.linux-x64-musl.node",
   "files": [
     "solidity-analyzer.linux-x64-musl.node"
@@ -15,8 +9,5 @@
   "engines": {
     "node": ">= 12"
   },
-  "repository": "github:NomicFoundation/solidity-analyzer",
-  "libc": [
-    "musl"
-  ]
+  "repository": "github:NomicFoundation/solidity-analyzer"
 }

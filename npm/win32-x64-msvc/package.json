@@ -1,12 +1,6 @@
 {
   "name": "@nomicfoundation/solidity-analyzer-win32-x64-msvc",
   "version": "0.1.1",
-  "os": [
-    "win32"
-  ],
-  "cpu": [
-    "x64"
-  ],
   "main": "solidity-analyzer.win32-x64-msvc.node",
   "files": [
     "solidity-analyzer.win32-x64-msvc.node"
