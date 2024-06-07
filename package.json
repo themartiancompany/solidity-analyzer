@@ -18,21 +18,18 @@
       "defaults": false,
       "additional": [
         "aarch64-apple-darwin",
-        "aarch64-pc-windows-msvc",
+        "x86_64-apple-darwin",
         "aarch64-unknown-linux-gnu",
         "aarch64-unknown-linux-musl",
-        "i686-pc-windows-msvc",
-        "x86_64-apple-darwin",
-        "x86_64-pc-windows-msvc",
         "x86_64-unknown-linux-gnu",
         "x86_64-unknown-linux-musl",
-        "x86_64-unknown-freebsd"
+        "x86_64-pc-windows-msvc"
       ]
     }
   },
   "license": "MIT",
   "devDependencies": {
-    "@napi-rs/cli": "2.14.8",
+    "@napi-rs/cli": "2.18.3",
     "ava": "5.1.1",
     "prettier": "2.6.2"
   },
@@ -53,5 +50,5 @@
     "clean": "rm -rf index.js index.d.ts *.node target",
     "prettier": "prettier --write *.md *.json *.js *.d.ts __test__/*.mjs"
   },
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@4.2.2"
 }

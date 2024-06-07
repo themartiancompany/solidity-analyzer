@@ -1,21 +1,13 @@
 {
   "name": "@nomicfoundation/solidity-analyzer-linux-arm64-musl",
-  "version": "0.0.0",
-  "os": [
-    "linux"
-  ],
-  "cpu": [
-    "arm64"
-  ],
+  "version": "0.1.1",
   "main": "solidity-analyzer.linux-arm64-musl.node",
   "files": [
     "solidity-analyzer.linux-arm64-musl.node"
   ],
   "license": "MIT",
   "engines": {
-    "node": ">= 10"
+    "node": ">= 12"
   },
-  "libc": [
-    "musl"
-  ]
+  "repository": "github:NomicFoundation/solidity-analyzer"
 }
