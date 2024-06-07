@@ -1,6 +1,6 @@
 {
   "name": "@nomicfoundation/solidity-analyzer-darwin-x64",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "os": [
     "darwin"
   ],
@@ -13,6 +13,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": ">= 10"
-  }
+    "node": ">= 12"
+  },
+  "repository": "github:NomicFoundation/solidity-analyzer"
 }
