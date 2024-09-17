@@ -50,13 +50,13 @@ switch (platform) {
         break;
       case "arm":
         localFileExisted = existsSync(
-          join(__dirname, "solidity-analyzer.android-arm-eabi.node")
+          join(__dirname, "solidity-analyzer.linux-arm-androideabi.node")
         );
         try {
           if (localFileExisted) {
-            nativeBinding = require("./solidity-analyzer.android-arm-eabi.node");
+            nativeBinding = require("./solidity-analyzer.linux-arm-androideabi.node");
           } else {
-            nativeBinding = require("@nomicfoundation/solidity-analyzer-android-arm-eabi");
+            nativeBinding = require("@nomicfoundation/solidity-analyzer-linux-arm-androideabi");
           }
         } catch (e) {
           loadError = e;
