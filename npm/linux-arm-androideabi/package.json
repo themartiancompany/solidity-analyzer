@@ -1,0 +1,13 @@
+{
+  "name": "@nomicfoundation/solidity-analyzer-linux-arm-androideabi",
+  "version": "0.1.2",
+  "main": "solidity-analyzer.linux-arm-androideabi.node",
+  "files": [
+    "solidity-analyzer.linux-arm-androideabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 12"
+  },
+  "repository": "github:NomicFoundation/solidity-analyzer"
+}
