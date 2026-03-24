@@ -77,6 +77,9 @@ install-scripts:
 
 build-npm:
 
+	mkdir \
+	  -p \
+	  "build"
 	cp \
 	  -r \
 	  $(NPM_FILES) \
@@ -84,10 +87,11 @@ build-npm:
 	cd \
 	  "build"; \
 	_version="$$( \
-	  npm \
-	    view \
-	      "$$(pwd)" \
-	      "version")"; \
+	  cat \
+	    "package.json" | \
+	    jq \
+	      --raw-output \
+	      ".version")"; \
 	npm \
 	  install; \
 	npm \
