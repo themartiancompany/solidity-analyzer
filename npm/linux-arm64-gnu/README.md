@@ -1,3 +1,3 @@
-# `@nomicfoundation/solidity-analyzer-linux-arm64-gnu`
+# `@themartiancompany/solidity-analyzer-linux-arm64-gnu`
 
-This is the **aarch64-unknown-linux-gnu** binary for `@nomicfoundation/solidity-analyzer`
+This is the **aarch64-unknown-linux-gnu** binary for `@themartiancompany/solidity-analyzer`

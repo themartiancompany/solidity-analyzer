@@ -1,5 +1,5 @@
 {
-  "name": "@nomicfoundation/solidity-analyzer-linux-arm64-gnu",
+  "name": "@themartiancompany/solidity-analyzer-linux-arm64-gnu",
   "version": "0.1.1",
   "main": "solidity-analyzer.linux-arm64-gnu.node",
   "files": [
@@ -9,5 +9,5 @@
   "engines": {
     "node": ">= 12"
   },
-  "repository": "github:NomicFoundation/solidity-analyzer"
+  "repository": "github:themartiancompany/solidity-analyzer"
 }

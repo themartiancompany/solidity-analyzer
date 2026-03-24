@@ -1,5 +1,5 @@
 {
-  "name": "@nomicfoundation/solidity-analyzer-win32-x64-msvc",
+  "name": "@themartiancompany/solidity-analyzer-win32-x64-msvc",
   "version": "0.1.1",
   "main": "solidity-analyzer.win32-x64-msvc.node",
   "files": [
@@ -9,5 +9,5 @@
   "engines": {
     "node": ">= 12"
   },
-  "repository": "github:NomicFoundation/solidity-analyzer"
+  "repository": "github:themartiancompany/solidity-analyzer"
 }

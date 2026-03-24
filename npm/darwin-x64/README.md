@@ -1,3 +1,3 @@
-# `@nomicfoundation/solidity-analyzer-darwin-x64`
+# `@themartiancompany/solidity-analyzer-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@nomicfoundation/solidity-analyzer`
+This is the **x86_64-apple-darwin** binary for `@themartiancompany/solidity-analyzer`
