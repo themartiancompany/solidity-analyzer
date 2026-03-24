@@ -56,7 +56,8 @@ NPM_FILES=\
   "build.rs" \
   "src" \
   "README.md" \
-  "package.json"
+  "package.json" \
+  "yarn.lock"
 
 all: build-man build-npm
 
