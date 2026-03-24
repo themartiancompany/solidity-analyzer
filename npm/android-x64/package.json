@@ -1,6 +1,6 @@
 {
   "name": "@themartiancompany/solidity-analyzer-android-x64",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "main": "solidity-analyzer.android-x64.node",
   "files": [
     "solidity-analyzer.android-x64.node"
