@@ -1,6 +1,6 @@
 {
   "name": "@themartiancompany/solidity-analyzer-linux-x64-gnu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "solidity-analyzer.linux-x64-gnu.node",
   "files": [
     "solidity-analyzer.linux-x64-gnu.node"
