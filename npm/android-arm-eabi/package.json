@@ -1,5 +1,5 @@
 {
-  "name": "@nomicfoundation/solidity-analyzer-android-arm-eabi",
+  "name": "@themartiancompany/solidity-analyzer-android-arm-eabi",
   "version": "0.1.2",
   "main": "solidity-analyzer.android-arm-eabi.node",
   "files": [
@@ -9,5 +9,5 @@
   "engines": {
     "node": ">= 12"
   },
-  "repository": "github:NomicFoundation/solidity-analyzer"
+  "repository": "github:themartiancompany/solidity-analyzer"
 }
