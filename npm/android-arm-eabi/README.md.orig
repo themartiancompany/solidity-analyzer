@@ -1,0 +1,7 @@
+# `@themartiancompany/solidity-analyzer-android-arm-eabi`
+
+<<<<<<< HEAD
+This is the **arm-linux-androideabi** binary for `@nomicfoundation/solidity-analyzer`
+=======
+This is the **arm-android-linux-eabi** binary for `@themartiancompany/solidity-analyzer`
+>>>>>>> 2b420843436ec31319c08ed78aa168dcf772e3c1
