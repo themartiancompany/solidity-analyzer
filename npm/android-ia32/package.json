@@ -1,5 +1,5 @@
 {
-  "name": "@themartiancompany/solidity-analyzer-android-ia32-eabi",
+  "name": "@themartiancompany/solidity-analyzer-android-ia32",
   "version": "0.1.2",
   "main": "solidity-analyzer.android-ia32.node",
   "files": [
