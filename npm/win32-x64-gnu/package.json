@@ -1,9 +1,9 @@
 {
-  "name": "@nomicfoundation/solidity-analyzer-win32-x64-msvc",
+  "name": "@themartiancompany/solidity-analyzer-win32-x64-gnu",
   "version": "0.1.1",
-  "main": "solidity-analyzer.win32-x64-msvc.node",
+  "main": "solidity-analyzer.win32-x64-gnu.node",
   "files": [
-    "solidity-analyzer.win32-x64-msvc.node"
+    "solidity-analyzer.win32-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

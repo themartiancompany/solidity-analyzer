@@ -1,0 +1,3 @@
+# `@themartiancompany/solidity-analyzer-win32-x64-gnu`
+
+This is the **x86_64-pc-windows-msvc** binary for `@themartiancompany/solidity-analyzer`
