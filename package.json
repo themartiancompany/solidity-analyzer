@@ -17,9 +17,12 @@
     "triples": {
       "defaults": false,
       "additional": [
+        "aarch64-android",
+        "arm-linux-androideabi",
+        "ia32-android",
+        "x86_64-android",
         "aarch64-apple-darwin",
         "x86_64-apple-darwin",
-        "arm-linux-androideabi",
         "aarch64-unknown-linux-gnu",
         "aarch64-unknown-linux-gnu",
         "aarch64-unknown-linux-musl",
